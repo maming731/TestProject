@@ -1,1 +1,2 @@
 Hello world! I am B.
+This is issue2.
