@@ -1,3 +1,4 @@
 Hello world! I am B.
 This is issue2.
 Hot fix!
+change b
