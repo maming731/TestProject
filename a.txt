@@ -1,4 +1,6 @@
 I am the a file.
+add more things.
+fix a bug.
 ###############################
 ##   Hello, git study        ##
 ###############################
