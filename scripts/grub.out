@@ -1,0 +1,7 @@
+find: `/etc/chatscripts': 权限不够
+find: `/etc/ppp/peers': 权限不够
+/etc/bash_completion.d/grub
+/etc/default/grub
+find: `/etc/polkit-1/localauthority': 权限不够
+find: `/etc/cups/ssl': 权限不够
+find: `/etc/ssl/private': 权限不够

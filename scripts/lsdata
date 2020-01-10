@@ -1,0 +1,18 @@
+总用量 72
+-rw-rw-r-- 1 m.ma m.ma   210 1月   8 09:54 a.txt
+-rw-rw-r-- 1 m.ma m.ma    60 1月   8 09:54 b.txt
+-rwxrwxr-x 1 m.ma m.ma    11 1月   9 09:45 builtin.sh
+-rw-rw-r-- 1 m.ma m.ma    55 1月   8 10:04 c.txt
+-rwxrwxr-x 1 m.ma m.ma   372 1月   9 10:55 declares.sh
+-rw-rw-r-- 1 m.ma m.ma    46 1月   7 19:54 diff
+-rwxrwxr-x 1 m.ma m.ma   141 1月   9 09:50 echotest.sh
+-rwxrwxr-x 1 m.ma m.ma    65 1月   3 13:47 first.sh
+-rw-rw-r-- 1 m.ma m.ma    33 1月   7 19:54 index.html
+-rw-rw-r-- 1 m.ma m.ma    22 1月   3 14:25 issue1.txt
+-rw-rw-r-- 1 m.ma m.ma 11357 12月 31 13:25 LICENSE
+-rwxrwxr-x 1 m.ma m.ma   165 1月   9 11:18 loops.sh
+-rw-rw-r-- 1 m.ma m.ma     0 1月   9 11:20 lsdata
+-rwxrwxr-x 1 m.ma m.ma    49 1月   9 10:03 preA.sh
+-rw-rw-r-- 1 m.ma m.ma    42 1月   7 14:22 README.txt
+-rwxrwxr-x 1 m.ma m.ma    17 1月   9 09:59 set.sh
+-rwxrwxr-x 1 m.ma m.ma   182 1月   9 10:34 typesets.sh
